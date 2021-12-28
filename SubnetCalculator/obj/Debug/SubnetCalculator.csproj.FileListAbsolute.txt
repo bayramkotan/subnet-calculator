@@ -1,0 +1,16 @@
+C:\Users\bayram\Documents\SharpDevelop Projects\SubnetCalculator\SubnetCalculator\bin\Debug\SubnetCalculator.exe.config
+C:\Users\bayram\Documents\SharpDevelop Projects\SubnetCalculator\SubnetCalculator\bin\Debug\SubnetCalculator.exe
+C:\Users\bayram\Documents\SharpDevelop Projects\SubnetCalculator\SubnetCalculator\bin\Debug\SubnetCalculator.pdb
+C:\Users\bayram\Documents\SharpDevelop Projects\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.csprojResolveAssemblyReference.cache
+C:\Users\bayram\Documents\SharpDevelop Projects\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.MainForm.resources
+C:\Users\bayram\Documents\SharpDevelop Projects\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.csproj.GenerateResource.Cache
+C:\Users\bayram\Documents\SharpDevelop Projects\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.exe
+C:\Users\bayram\Documents\SharpDevelop Projects\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.pdb
+D:\Desktop\SubnetCalculator\SubnetCalculator\bin\Debug\SubnetCalculator.exe.config
+D:\Desktop\SubnetCalculator\SubnetCalculator\bin\Debug\SubnetCalculator.exe
+D:\Desktop\SubnetCalculator\SubnetCalculator\bin\Debug\SubnetCalculator.pdb
+D:\Desktop\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.csprojResolveAssemblyReference.cache
+D:\Desktop\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.MainForm.resources
+D:\Desktop\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.csproj.GenerateResource.Cache
+D:\Desktop\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.exe
+D:\Desktop\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.pdb
